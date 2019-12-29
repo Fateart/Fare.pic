@@ -24,10 +24,6 @@ settings.hintAlign = "left";
 // JK 滚动幅度，默认是70
 settings.scrollStepSize = 120;
 
-mapkey('ot','打开自定义主页',()=>{
-    window.open("http://localhost:81/"); 
-    //or window.location.href="https://www.google.com"; 
-});
 mapkey('oe','打开QQ邮箱',()=>{
     window.open("https://mail.qq.com/"); 
 });
